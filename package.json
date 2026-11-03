@@ -1,0 +1,13 @@
+{
+  "name": "testnet-expense-example",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A standalone BigInt example of settling a reserved fee against known expenses.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
